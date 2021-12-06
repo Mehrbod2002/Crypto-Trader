@@ -8,7 +8,7 @@ Multi Proccess Handler
 
 Async time progresser
 
-WebSockets Spider Handler - Purpose : Coin Price
+WebSockets Spider Handler
 # Graphical Abstract
 ``` python
 pip3 install -r requirements.txt && python3 app.py &
