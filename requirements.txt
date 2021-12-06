@@ -1,0 +1,4 @@
+requests
+tk
+tkcalendar
+pyinstaller
