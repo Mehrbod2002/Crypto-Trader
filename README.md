@@ -4,6 +4,8 @@ Mehrbod :man_technologist:
 
 Crypto Trader - introduced Coin which determined will buy and sell in profit by KUcoin
 
+Multi Proccess Handler
+
 Async time progresser
 
 WebSockets Spider Handler - Purpose : Coin Price
