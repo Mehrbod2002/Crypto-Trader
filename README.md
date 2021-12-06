@@ -1,10 +1,10 @@
 # Crypto trader
 Crypto Trader - introduced Coin which determined will buy and sell in profit by KUcoin
 # Grapthical App
-``` python
+``` bash
 python3 app.py
 ```
 or
-```python
+```bash
 pyinstaller app.py
 ```
