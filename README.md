@@ -1,7 +1,7 @@
 # Crypto trader
 ### Author
 Mehrbod :man_technologist:
-
+# Info
 Crypto Trader - introduced Coin which determined will buy and sell in profit by KUcoin
 
 Multi Proccess Handler
